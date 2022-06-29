@@ -1,1 +1,1 @@
-# lens-test
+## Lens Protocol Next.js codebase from YouTube tutorial
